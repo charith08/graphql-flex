@@ -57,3 +57,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise', '~> 4.7.1'
+gem 'graphql', '~> 1.10.8'
+gem 'graphiql-rails', group: :development
